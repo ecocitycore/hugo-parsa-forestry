@@ -1,6 +1,6 @@
 baseURL: /
 languageCode: en-us
-title: Hugo Parsa Forestry Starter
+title: Ecocity Lifelong Learning Network
 
 # Theme settings
 module:
@@ -44,20 +44,21 @@ params:
   logo: images/logo.png
   home: Home
   layout: '1'
-  description: This is meta description
+  description: ecocity supports the non-violent transformation of modern culture from improving our daily lives to visioning, designing, acting, economically developing, propagating, promoting, and educating the mass markets that non-toxic, economially superior, cooperative approaches to human settlements, transportation, supply routes, energy consumption and generation, loving relationships, and quality locally grown natural food is attainable for a lower cost to each of us due to the cooperative approaches that the internet and networked communications now allows us. viva la ecocity!
   preloader: true
   search: true
   author: Themefisher
   author_image: images/banner-img.png
   bio: >-
-    I’m a Freelance Interactive Art Director based in France. Focusing across
-    branding and identity, digital and print.
-  mobile: +90 000 333 22
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
+    I believe in the future we will suffer no more
+    We are here together to figure out the challenges our souls present to us, and apply these lessons to building a better society, as we face the exisential challenges our era.
+    Ecocity Lifelong Learning Network is a platform provided by the US not for profit orfanization, Sustainable Commnity Development Hub.  Ecocity.com and the Ecocommunity that it supports non-violent transformation of modern culture from improving our daily lives to visioning, designing, acting, economically developing, propagating, promoting, and educating the mass markets that non-toxic, economially superior, cooperative approaches to human settlements, transportation, supply routes, energy consumption and generation, loving relationships, and quality locally grown natural food is attainable for a lower cost to each of us due to the cooperative approaches that the internet and networked communications now allows us. viva la ecocity!
+  mobile: +01 720 297 6965
+  email: greg@ecocity.com
+  address: P.O. Box 911 Nederland CO 80466
   contact_form_action: '#'
   google_analitycs_id: Your ID
-  copyright: 'Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)'
+  copyright: 'Copyright &copy; 2020 Sustainable Community Development Hub, theme by [themefisher.com](themefisher.com)'
   instafeed:
     enable: true
     access_token: >-
@@ -66,11 +67,11 @@ params:
     - icon: ti-facebook
       URL: '#'
     - icon: ti-twitter-alt
-      URL: '#'
+      URL: 'https://twitter.com/ecocity'
     - icon: ti-linkedin
-      URL: '#'
+      URL: 'https://linkedin.com/in/ecocity'
     - icon: ti-github
-      URL: '#'
+      URL: 'https://github.com/ecocitycore'
 menu:
   main:
     - name: About
