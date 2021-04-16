@@ -3,7 +3,7 @@ title: Quality Drinking Water for all
 date: 2021-04-14T08:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/featured-post/post-1.jpg"
+image: "/images/resource-inventory-water-quality550.jpg"
 categories:
 - Valuable Idea
 tags:
