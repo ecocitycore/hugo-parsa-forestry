@@ -5,10 +5,9 @@ description: This is meta description
 type: featured
 image: "/images/resource-inventory-water-quality550.jpg"
 categories:
-- Valuable Idea
+- water quality
 tags:
-- Photos
-- Finance
+- water
 
 ---
 Water is a human right and SDG #6.  
