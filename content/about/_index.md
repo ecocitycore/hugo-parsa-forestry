@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: images/author.jpg
+image: "/images/resource-inventory-water-quality550.jpgimages/author.jpg"
 
 ---
 Ecocity was started by myself in 1996.  I have struggled to realize the fullness of the vision that unfolded quickly on front of my eyes on that stool in the ranch home I had rented the summer of 1996.  So much life has been lived since then.
