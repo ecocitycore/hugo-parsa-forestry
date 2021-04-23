@@ -1,8 +1,8 @@
 +++
 categories = []
-date = ""
+date = 2021-04-23T04:00:00Z
 description = ""
-image = ""
+image = "/images/screenshot_2021-04-01-pit-latrine-slab-and-platform-design.png"
 tags = []
 title = "Mama Watoto Self Help Group"
 type = "post"
