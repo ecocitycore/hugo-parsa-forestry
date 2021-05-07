@@ -27,5 +27,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/a-focus-on-actionable-issues.md
 - content/mama-watoto-self-help-group.md
 - content/self-help-group-strategy-analysis.md
