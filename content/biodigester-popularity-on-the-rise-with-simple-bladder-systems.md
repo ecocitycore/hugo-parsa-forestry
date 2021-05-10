@@ -9,6 +9,6 @@ title = "Biodigester popularity on the rise with simple bladder systems"
 type = "post"
 
 +++
-New cost saving designs that provide for simple setup and operation have become commonplace.
+With the adoption of new fittings and seal New cost saving designs provide for simple setup and operation have become commonplace.
 
-The associated image 
+The community making use of the pictured Biodigester are Bedoin (traditionally nomadic herders) in Negrev, Israel.
