@@ -5,7 +5,7 @@ description: ecocity website
 image: images/contact.jpg
 
 ---
-Ecocity is a project of Sustainable Community Development Hub.
+Ecocity Lifelong Learning Network is a project of Sustainable Community Development Hub.
 
 To propose a story or research area, please contact
 
